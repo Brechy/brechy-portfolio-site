@@ -1,0 +1,9 @@
+{
+  "name": "brechin-portfolio-web-app",
+  "version": "1.0.0",
+  "description": "Personal web site to display work.",
+  "main": "index.js",
+  "repository": "https://github.com/Brechy/brechy-portfolio-site.git",
+  "author": "Brechin Andariese",
+  "license": "MIT"
+}
